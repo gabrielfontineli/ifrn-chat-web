@@ -13,7 +13,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          Vai se fuder administracao
+          caminhao calcinha
         </h1>
         <img src="https://i.redd.it/jrbyu3qzp1p41.jpg"></img>
 
